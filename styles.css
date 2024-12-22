@@ -36,6 +36,11 @@ form input {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 20px;
+  :hover {
+    background: #43acb9;
+    color: #fff;
+    transition: 0.3s;
+  }
 }
 button {
   flex: 0 0 22%;
